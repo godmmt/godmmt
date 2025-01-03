@@ -27,6 +27,9 @@ Here are some ideas to get you started:
 
 ### 🧙🏻‍♂️ Currently Learning:
 
+- **Next.js**
+- **Tailwind CSS**
+- **TypeScript**
 - HTML & CSS (SASS) & JavaScript
 - React
 - Node.js & Express
