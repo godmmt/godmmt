@@ -21,10 +21,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </div>
 
-### 🤖 Github Stats: 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=godmmt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 🧙🏻‍♂️ Currently Learning:
 
 - **Next.js**
